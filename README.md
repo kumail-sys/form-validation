@@ -12,7 +12,7 @@ Built with VanillaJS this form has all the required validation to get an authent
 
 ## Author
 
--   Prakash Sakari - follow me on 👇
+-   MO Kumail - follow me on 👇
 -   [GitHub](https://www.github.com/kumail-sys)
 
 
@@ -28,6 +28,7 @@ https://loginformvalidate.netlify.app/
 Clone the project by adding the following command in the terminal.
 Make sure your have git installed and added to path.
 
+https://www.github.com/kumail-sys
 
 Open the project directory in a new window and run the html file
 
